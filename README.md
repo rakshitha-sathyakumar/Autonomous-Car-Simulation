@@ -18,4 +18,4 @@ Download the generated weights yolov3-tiny-obj_5000.weights file at the same Dri
 
 Download the yolov3-tiny configured network at yolov3-tiny-obj.cfg file.
 
-More details: http://pjreddie.com/darknet/yolo/.
+Reference: http://pjreddie.com/darknet/yolo/.
