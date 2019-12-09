@@ -1,0 +1,1 @@
+/usr/local/Cellar/opencv/4.1.2/lib/python3.7/site-packages/cv2/config-3.7.py
