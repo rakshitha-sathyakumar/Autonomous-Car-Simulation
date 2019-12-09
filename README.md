@@ -1,4 +1,4 @@
-# Mthod 3: CARLA-Speed-Traffic-Sign-Detection-Using-Yolo
+### Method 3: CARLA-Speed-Traffic-Sign-Detection-Using-Yolo
 
 
 ###### CARLA
